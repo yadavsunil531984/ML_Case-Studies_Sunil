@@ -1,0 +1,1 @@
+For clustering, one-hot encoding is generally a good practice for categorical variables to ensure that distance calculations and clusters accurately reflect the structure of the data. However, managing dimensionality is also important to maintain clustering performance. So solve above case studies using one hot encoding also

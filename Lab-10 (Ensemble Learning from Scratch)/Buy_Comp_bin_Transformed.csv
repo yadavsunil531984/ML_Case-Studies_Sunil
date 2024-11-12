@@ -1,0 +1,15 @@
+Age,Income,Student,Credit Rating,Buy Comp
+Youth,High,No,Fair,No
+Youth,High,No,Excellent,No
+Youth,High,No,Fair,Yes
+Senior,Low,No,Fair,Yes
+Senior,Low,Yes,Fair,Yes
+Senior,Low,Yes,Excellent,No
+Youth,Low,Yes,Excellent,Yes
+Youth,Low,No,Fair,No
+Youth,Low,Yes,Fair,Yes
+Senior,Low,Yes,Fair,Yes
+Youth,Low,Yes,Excellent,Yes
+Youth,Low,No,Excellent,Yes
+Youth,High,Yes,Fair,Yes
+Senior,Low,No,Excellent,No
