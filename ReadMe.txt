@@ -1,0 +1,2 @@
+1) One Case study can be included on Stratified sampling where we can calculate Performance metric without and with statified sample can do comparative analysis.
+https://www.geeksforgeeks.org/stratified-sampling-in-machine-learning/ 
